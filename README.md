@@ -1,6 +1,6 @@
 ## About Me
 
-I am currently a student and working on my first project which i won't spill yet. it will be public on my repo once i'm done.
+I am currently working on my first project which i won't spill yet. it will be public on my repo once i'm done.
 My first contribution was on zowe and i was happy to have my first commit merged.
 <p>Fun fact? Coding,programming and open source contributions is where i get my adrenaline from. I would say i enjoy open source the most cause i get to collaborate with people.</p>
 <p>Pronouns: He,Him</p>
